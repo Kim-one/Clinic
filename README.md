@@ -20,12 +20,12 @@ Welcome to the **Clinic Management System** repository! This project is aimed at
 
 2. Compile the code:
    ```bash
-   gcc -o clinic_management main.c
+   gcc clinic.c -o clinic
    ```
 
 3. Run the application:
    ```bash
-   ./clinic_management
+   ./clinic
    ```
 
 ## Usage
