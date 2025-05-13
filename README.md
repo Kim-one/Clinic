@@ -1,11 +1,3 @@
-The current `README.md` file has been identified in the repository. It will be replaced with the detailed version as planned.
-
-Since this involves directly modifying the repository, you can follow these steps:
-
-1. Navigate to [README.md in your repository](https://github.com/Kim-one/Clinic/blob/main/README.md).
-2. Replace its content with the following:
-
-```markdown
 # Clinic Management System
 
 Welcome to the **Clinic Management System** repository! This project is aimed at providing a robust, efficient, and simple solution for managing clinic operations. Developed entirely in C, it demonstrates efficient code design and practical applications in a clinic's day-to-day workflows.
