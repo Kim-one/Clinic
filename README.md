@@ -5,9 +5,8 @@ Welcome to the **Clinic Management System** repository! This project is aimed at
 ## Features
 
 - **Patient Management**: Add, update, and view patient records.
-- **Appointment Scheduling**: Schedule, modify, and cancel appointments.
-- **Doctor Management**: Manage doctor information, including their specialties and schedules.
-- **Billing System**: Generate and manage invoices for patient visits.
+- **Appointment Scheduling**: Schedule appointments.
+- **Doctor Management**: Manage doctor information.
 - **Reports**: Generate daily, weekly, or monthly reports for clinic activities.
 
 ## Installation
@@ -54,10 +53,6 @@ We welcome contributions! Please follow the steps below to contribute:
    git push origin feature-name
    ```
 5. Open a pull request and describe your changes.
-
-## License
-
-This project is currently not licensed. If you want to include a license, please add one in the `LICENSE` file.
 
 ## Acknowledgments
 
