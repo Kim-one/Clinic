@@ -7,7 +7,6 @@ Welcome to the **Clinic Management System** repository! This project is aimed at
 - **Patient Management**: Add, update, and view patient records.
 - **Appointment Scheduling**: Schedule appointments.
 - **Doctor Management**: Manage doctor information.
-- **Reports**: Generate daily, weekly, or monthly reports for clinic activities.
 
 ## Installation
 
