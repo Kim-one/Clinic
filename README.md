@@ -53,8 +53,3 @@ We welcome contributions! Please follow the steps below to contribute:
    ```
 5. Open a pull request and describe your changes.
 
-## Acknowledgments
-
-- Thanks to all contributors and open-source libraries that made this project possible.
-- Special recognition to C programmers and clinic staff for their valuable input.
-
