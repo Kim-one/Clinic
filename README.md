@@ -32,11 +32,10 @@ Welcome to the **Clinic Management System** repository! This project is aimed at
 2. Follow the on-screen menu to navigate through the functionality:
    - Add new patients and doctors.
    - Schedule and manage appointments.
-   - Access reports and billing.
 
 ## Contributing
 
-We welcome contributions! Please follow the steps below to contribute:
+Please follow the steps below to contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
